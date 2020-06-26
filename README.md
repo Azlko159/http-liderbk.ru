@@ -1,2 +1,2 @@
-# http-liderbk.ru
-http://liderbk.ru
+# https-liderbk.ru
+https://liderbk.ru
